@@ -1,0 +1,7 @@
+{
+    "cert_arn": "arn:aws:iot:eu-central-1:9999999999:cert/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "endpoint": "abcdefghijkl-ats.iot.eu-central-1.amazonaws.com",
+    "policy_name": "fullaccess-policy",
+    "mqttid": "psocthing_0",
+    "thingname": "psocthing_0"
+}
