@@ -76,7 +76,7 @@ thing.mqtt.connect()
 print("> connected")
 thing.mqtt.loop()
 
-sensor = bme280.BME280(I2C0)
+sensor = bme280.BME280(I2C2)
 capsense.init()
 capsense.on_btn(ethereum_store)
 capsense.on_btn(ethereum_store, event=capsense.BTN1_RISE)
